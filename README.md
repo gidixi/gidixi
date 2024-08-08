@@ -33,4 +33,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows 11" height="40" width="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gidixi&show_icons=true&locale=en" alt="gidixi" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gidixi&show_icons=true&locale=en" alt="gidixi" /></p> --!>
